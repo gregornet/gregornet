@@ -1,5 +1,5 @@
 
-![Casco astronauta](https://i.imgur.com/b1kbwbR.gif "Casco")
+![octo](![image](https://user-images.githubusercontent.com/88152278/197361508-e2ed7fa0-1726-440f-a9c5-68c99dd4f213.png) "octo")
 <h3 align="center">A passionate frontend developer from Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregornet&label=Profile%20views&color=0e75b6&style=flat" alt="gregornet" /> </p>
