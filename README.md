@@ -1,6 +1,14 @@
 
-![image](https://octodex.github.com/images/mummytocat.gif)
-<h3 align="center">A passionate frontend developer from Venezuela</h3>
+<div>  </div>
+
+<div> <img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" height="200" >
+
+ <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" height="200" >
+
+
+</div>
+
+<h3  >A passionate frontend developer from Venezuela</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregornet&label=Profile%20views&color=0e75b6&style=flat" alt="gregornet" /> </p>
 
