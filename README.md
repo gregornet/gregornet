@@ -1,7 +1,7 @@
 
 <div>  </div>
 
-<div> <img align="left" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" height="200" >
+<div> <img align="left" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200" height="200" >
 
  <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" height="200" >
 
