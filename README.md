@@ -18,7 +18,7 @@ YOUR TABLE
 
 ## About me
 
-Hi, I'm Mona. You might recognize me as GitHub's mascot.
+Hi, I'm greg. You might recognize me as GitHub's mascot.
 
 
 
