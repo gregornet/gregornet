@@ -1,8 +1,18 @@
- <a href="#home">Home</a>   <a href="#news">News</a>    <a href="#news">News</a>    <a href="#news">News</a>  <img align="right" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200" height="200" >
+ <h1> 
+ 
+ <img src="https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif" width="50" height="50" >     
+ <a href="#home">Home</a>                
+ <a href="#news">News</a>   
+ <a href="#news">News</a>   
+ <a href="#news">News</a>  
+ <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="50" height="60" >  
+
+</h1>
+ 
+ 
 
 
-
-------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------
 
 Hi, I'm greg. You might recognize me as GitHub's mascot.
 
@@ -12,6 +22,7 @@ Hi, I'm greg. You might recognize me as GitHub's mascot.
 
 ```json
     
+    hola como estan
 
   
 ```
@@ -19,33 +30,14 @@ Hi, I'm greg. You might recognize me as GitHub's mascot.
 ---
 
 
-```html
-   
-<h1 style="background-color:powderblue;">This is a heading</h1>
-<p style="background-color:tomato;">This is a paragraph.</p>
-
-
-
-
-```
-
-
-
-```js
-
-
-
-<h1 style="background-color:powderblue;">This is a heading</h1>
-<p style="background-color:tomato;">This is a paragraph.</p>
-
-```
 ```css
-   <h1 style="background-color:powderblue;">This is a heading</h1>
-<p style="background-color:tomato;">This is a paragraph.</p>
+este sirve
 
 
 ```
-// etc.
+
+
+// hjhfhfghgfhgfhfghhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 ```diff
 -gregor
