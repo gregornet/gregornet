@@ -7,7 +7,9 @@
 <p>soy un parrafo</p>
  
 
- 
+ <a href="#lancha">Paseo en lancha</a>
+
+<a name="lancha" id="lancha"></a>
  
 
 
@@ -149,6 +151,8 @@ YOUR TABLE
   <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
 
 </picture>
+ 
+ <a name="lancha" id="lancha"></a>
 
 
 ## About me
