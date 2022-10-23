@@ -1,4 +1,10 @@
 
+
+- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:
+
+
 <details>
 <summary>My top THINGS-TO-RANK</summary>
 
