@@ -6,114 +6,7 @@
 
 <p>soy un parrafo</p>
  
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+
  
  <a href="#ancla-1">Capitulo 1</a>
 
@@ -140,6 +33,109 @@
 
 
 - [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:
+ - [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
 - [ ] aprender as ingles
 - [ ] huy tantas cosas :tada:
 
