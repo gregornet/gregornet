@@ -8,14 +8,7 @@
  
 
  
- <a href="#ancla-1">Capitulo 1</a>
-
-<a name="ancla-1"></a>
-
-<h3>Capitulo 1 </h3>
-
-<p> soy un parrafo</p>
-
+ 
 
 
 <h2>The target Attribute</h2>
@@ -220,6 +213,16 @@ function test() {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gregornet&show_icons=true&locale=en" alt="gregornet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gregornet&" alt="gregornet" /></p>
+ 
+ 
+ <a href="#ancla-1">Capitulo 1</a>
+
+<a name="ancla-1"></a>
+
+<h3>Capitulo 1 </h3>
+
+<p> soy un parrafo</p>
+
 
 
 <!--
