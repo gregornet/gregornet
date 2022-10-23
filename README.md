@@ -9,7 +9,7 @@
 
  <a href="#lancha">Paseo en lancha</a>
 
-<a name="lancha" id="lancha"></a>
+
  
 
 
