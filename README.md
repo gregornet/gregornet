@@ -193,9 +193,9 @@ function test() {
 <p> soy un parrafo</p>
 
 
- <a align="left" href="#regreso">Arriba</a>
+
  
- <p>  <a align="left" href="#regreso">Arriba</a> </p>
+ <div align="right" >  <a  href="#regreso">Arriba</a> </div>
 
 
 <!--
