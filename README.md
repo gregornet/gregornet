@@ -193,7 +193,7 @@ este sirve
 
  
  <div align="right"> 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gregornet&show_icons=true&locale=en" alt="gregornet" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=gregornet&show_icons=true&locale=en" alt="gregornet" /></p>
 
 </div> 
  
