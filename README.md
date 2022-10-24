@@ -39,14 +39,17 @@ Hola Soyy gregor Desarrollador web autodidacta, siempre me ha gustado la tecnolo
  
  ```
  
-```html
+```css
  y desde entonces no e parado de aprender y sigo aprendiendo cada dia,por ahora estoy enfocado en el desarrollo web pero con 
- mucha intencion de aprende el desarrollo de software,  pero aprender varios lenguajes 	:fallen_leaf:
+ mucha intencion de aprende el desarrollo de software,  pero aprender varios lenguajes 
 
 
 ```
  :fallen_leaf:
+ 
 
+
+ 
  <!--------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ```json
