@@ -5,10 +5,10 @@
 
 
  :octocat:<a href="#home">Home</a>:jack_o_lantern:<a href="#news">News</a> 	:ghost: <a href="#news">News</a>  :computer:
- <a href="#news">News</a>  	:iphone:
+ <a href="#ancla-1">Languages </a>	:iphone:
  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="50" height="60" >  	:octocat:
 
-<a href="#ancla-1">Capitulo 1</a>
+
  
 
  <img src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" width="1000" height="3" > 
@@ -174,6 +174,10 @@ function test() {
 <a href="https://linkedin.com/in/gregoridev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregoridev" height="30" width="40" /></a>
 </p>
 
+
+ <!--Languages and Tools:  -->
+
+ <a name="ancla-1"><> <h3>Languages </h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
@@ -187,7 +191,7 @@ function test() {
  <!-- link ocultos aun no defino para que usarlo -->
  
  
- <a name="ancla-1"><> <h3>skill</h3>
+ <a name="ancla-1"><> <h3>Languages </h3>
 
 
 
