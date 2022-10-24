@@ -27,13 +27,25 @@
   <!-- --------------------------------------------------------------------------------------------------------------------------------------->
 
  <!-- presentacion  -->
+ 
+:maple_leaf:
+```python
+
+Hola Soyy gregor Desarrollador web autodidacta, siempre me ha gustado la tecnologia ,lo queme me llevo a aprender computación
+```
+ 
+ ```ruby
+ luego la internet y las redes sociales me mostraron el lenguaje HTML junto al CSS fue asi como descubri la programacion
+ 
+ ```
+ 
+```html
+ y desde entonces no e parado de aprender y sigo aprendiendo cada dia,por ahora estoy enfocado en el desarrollo web pero con 
+ mucha intencion de aprende el desarrollo de software,  pero aprender varios lenguajes 	:fallen_leaf:
 
 
-:maple_leaf: Hola Soyy gregor Desarrollador web autodidacta, siempre me ha gustado la tecnologia ,loqueme me llevo a aprender computación , luego la internet y las redes sociales me mostraron el lenguaje HTML junto al CSS fue asi como dscubri la programacion, y desd entonces no e parado de aprender y sigo aprendiendo cada dia,
-por ahora estoy enfocado en el desarrollo web pero con mucha intencion de aprende el desarrollo de software,  pero aprender varios lenguajes 	:fallen_leaf:
-
-
-
+```
+ :fallen_leaf:
 
  <!--------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
