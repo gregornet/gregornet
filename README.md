@@ -187,7 +187,7 @@ function test() {
  <!-- link ocultos aun no defino para que usarlo -->
  
  
- <a name="ancla-1"><> <h3>skill</h3> <p>soy un parrafo</p>
+ <a name="ancla-1"><> <h3>skill</h3>
 
 
 
