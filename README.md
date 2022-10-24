@@ -78,12 +78,7 @@ este sirve
 
 
 
-<details>
-<summary>My top THINGS-TO-RANK</summary>
 
-YOUR TABLE
-
-</details>
 
 
  
@@ -100,17 +95,20 @@ YOUR TABLE
 
 
 ```ruby
-  que puedo decir que no se haya dicho
+  que puedo decir que no se haya dicho"nose "
 ```
-
-</p>
-</details>
+ 
 
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+
+
+
+
+| info    |info         |info       
+| ---     | ---         |         --
+| 1       |           2 |  3
+| git diff | Show file differences that haven't been staged | qq
+|veamos    |  hjgh      |        gjghj   
 
 
 
@@ -121,7 +119,7 @@ YOUR TABLE
 
 </div>
 
-<h3  >A passionate frontend developer from Venezuela</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregornet&label=Profile%20views&color=0e75b6&style=flat" alt="gregornet" /> </p>
 
