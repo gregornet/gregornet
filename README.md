@@ -1,6 +1,10 @@
- <h1> 
+
+ <!-- nav html -->
+
+<h1> 
  
- <img src="https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif" width="50" height="50" >     
+ <img src="https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif" width="50" height="50" > 
+ :skull:
  <a href="#home">Home</a>   :jack_o_lantern:              
  <a href="#news">News</a> 	:ghost: 
  <a href="#news">News</a>  :computer:
@@ -9,7 +13,7 @@
 
 </h1>
  
- <!-- nav html -->
+ <!-- ---------------------------------------------- nav html-------------------------------------------------------------------------->
 
 :maple_leaf: Hola Soyy gregor Desarrollador web autodidacta, siempre me ha gustado la tecnologia ,loqueme me llevo a aprender computación , luego la internet y las redes sociales me mostraron el lenguaje HTML junto al CSS fue asi como dscubri la programacion, y desd entonces no e parado de aprender y sigo aprendiendo cada dia,
 por ahora estoy enfocado en el desarrollo web pero con mucha intencion de aprende el desarrollo de software,  pero aprender varios lenguajes 	:fallen_leaf:
@@ -17,7 +21,7 @@ por ahora estoy enfocado en el desarrollo web pero con mucha intencion de aprend
 
 
 
-
+ <!-- presentacion  -->
 
 ```json
 
