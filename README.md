@@ -179,7 +179,7 @@ este sirve
  
    <!----------------------stats--->
  
-  <div align="right" > 
+  <div> 
  
  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gregornet&show_icons=true&locale=en&layout=compact" alt="gregornet" /></p>
 
