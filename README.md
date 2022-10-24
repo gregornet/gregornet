@@ -1,5 +1,5 @@
 
- <a name="lancha" id="lancha"></a>
+ <a name="regrego" id="regreso"></a>
 
 <!-- nav html -->
 
@@ -195,7 +195,7 @@ function test() {
 <p> soy un parrafo</p>
 
 
- <a href="#lancha">Arriba</a>
+ <a href="#regreso">Arriba</a>
 
 
 <!--
