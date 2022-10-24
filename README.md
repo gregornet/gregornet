@@ -1,9 +1,8 @@
 
  <!-- nav html -->
 
-<h2> 
- 
- <a href="#home">Home</a>   :jack_o_lantern:              
+<h2>
+ :octocat:<a href="#home">Home</a>   :jack_o_lantern:              
  <a href="#news">News</a> 	:ghost: 
  <a href="#news">News</a>  :computer:
  <a href="#news">News</a>  	:iphone:
