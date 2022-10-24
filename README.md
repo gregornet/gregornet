@@ -67,12 +67,6 @@ este sirve
 </ul>
 
 
-
-<a name="ancla-1"><>
-
-<h3>capitulo 1</h3>
-
-<p>soy un parrafo</p>
  
 
  <a href="#lancha">Paseo en lancha</a>
