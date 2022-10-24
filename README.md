@@ -61,13 +61,6 @@ este sirve
 ```
 
 
-```diff
--gregor
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
 
       
 
@@ -103,15 +96,8 @@ YOUR TABLE
 
 
 
-```
-ssfsfssfsfsf
-```
 
 
-<details><summary>CLICK ME</summary>
-<p>
-
-#### We can hide anything, even code!
 
 ```ruby
    puts "Hello World"
