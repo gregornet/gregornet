@@ -8,7 +8,7 @@
  <a href="#news">News</a>  	:iphone:
  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="50" height="60" >  	:octocat:
 
-
+<a href="#ancla-1">Capitulo 1</a>
  
 
  <img src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" width="1000" height="3" > 
@@ -187,8 +187,7 @@ function test() {
  <!-- link ocultos aun no defino para que usarlo -->
  
  
- <a href="#ancla-1">Capitulo 1</a>
-
+ <a name="ancla-1"><> <h3>skill</h3> <p>soy un parrafo</p>
 
 
 
