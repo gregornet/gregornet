@@ -1,33 +1,37 @@
  <h1> 
  
  <img src="https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif" width="50" height="50" >     
- <a href="#home">Home</a>                
- <a href="#news">News</a>   
- <a href="#news">News</a>   
+ <a href="#home">Home</a>   -               
+ <a href="#news">News</a> -  
+ <a href="#news">News</a>  - 
  <a href="#news">News</a>  
  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="50" height="60" >  
 
 </h1>
  
- 
-
-
----------------------------------------------------------------------------------------------------------------------------------------------------
+ <!-- nav html -->
 
 Hi, I'm greg. You might recognize me as GitHub's mascot.
 
 
 
-# ssfsdf
+
 
 ```json
-    
-    hola como estan
 
+
+ 
+ Lorem Ipsum is simply dummy text of the printing and typesetting industry.Lorem Ipsum has been the industry's standard
+ dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen 
+ book.It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+ It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages,and more recently with 
+ desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+ 
   
 ```
 
----
+
+ <!-- Js aun no defino para que usarlo -->
 
 
 ```css
@@ -36,8 +40,6 @@ este sirve
 
 ```
 
-
-// hjhfhfghgfhgfhfghhhhhhhhhhhhhhhhhhhhhhhhhhh
 
 ```diff
 -gregor
