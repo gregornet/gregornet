@@ -3,8 +3,6 @@
 
 <h2> 
  
- <img src="  " width="50" height="50" > 
- :skull:
  <a href="#home">Home</a>   :jack_o_lantern:              
  <a href="#news">News</a> 	:ghost: 
  <a href="#news">News</a>  :computer:
