@@ -9,15 +9,21 @@
  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="50" height="60" >  	:octocat:
 
 
- 
-
  <img src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" width="1000" height="3" > 
  
  <!-- -------------------------------------------------->
  
+ 
+ 
+ 
+ 
   <!-- ---------------------------------------------- redes sociales -------------------------------------------------------------------------->
  
-![Twitter Follow](https://img.shields.io/twitter/follow/gregoridev?color=blue&label=follow%20%40gregoridev&logo=twitter&logoColor=blue&style=flat-square)
+ <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=TWEET&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fgregoridev"> <!----> ![Twitter Follow](https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Follow%20%40gregoridev&logo=twitter&logoColor=blue&style=social)<!----> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Follow%20%40gregoridev&logo=twitter&logoColor=blue&style=for-the-badge"> <!----><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Follow%20%40gregoridev&logo=twitter&logoColor=blue&style=for-the-badge">
+
+
+ 
+
  
 
  
