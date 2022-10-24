@@ -1,7 +1,7 @@
 
  <!-- nav html -->
 
-<h1> 
+<h2> 
  
  <img src="  " width="50" height="50" > 
  :skull:
@@ -12,9 +12,9 @@
  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="50" height="60" >  	:octocat:
 
 
+</h2> 
 
-
- <img src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" width="900" height="35" > 
+ <img src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" width="1000" height="3" > 
  
  <!-- ---------------------------------------------- nav html-------------------------------------------------------------------------->
 
