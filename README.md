@@ -31,7 +31,8 @@
 :maple_leaf:
 ```python
 
-Hola Soyy gregor Desarrollador web autodidacta, siempre me ha gustado la tecnologia ,lo queme me llevo a aprender computación
+Hola Soyy gregor Desarrollador web autodidacta, siempre me ha gustado la tecnologia ,lo queme me llevo a aprender 
+ computación
 ```
  
  ```ruby
