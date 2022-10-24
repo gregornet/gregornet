@@ -19,7 +19,8 @@
  
   <!-- ----------------------- redes sociales ------>
  
- <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=TWEET&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fgregoridev"> <!----> ![Twitter Follow](https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Follow%20%40gregoridev&logo=twitter&logoColor=blue&style=social)<!----> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Follow%20%40gregoridev&logo=twitter&logoColor=blue&style=for-the-badge"> <!---->
+ <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=TWEET&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fgregoridev"> <!----> ![Twitter Follow](https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Follow%20%40gregoridev&logo=twitter&logoColor=blue&style=social)<!----> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Follow%20%40gregoridev&logo=twitter&logoColor=blue&style=for-the-badge"> <a href="https://linkedin.com/in/gregoridev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregoridev" height="30" width="40" /></a>
+</p>
  
   <!-- --------------------------------------------------------------------------------------------------------------------------------------->
 
@@ -66,23 +67,7 @@ este sirve
 @@ text in purple (and bold)@@
 ```
 
-
-
-
-
-
-<a href="https://www.linkedin.com/in/gregoridev/" &logo=linkedin  target="_blank">Visita mi linkedin </a> 
-
-![linkedin](https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Follow%20%40gregoridev&logo=twitter&logoColor=blue&style=social)
-
-
-
-<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Contact me%20%40gregoridev&logo=linkedin&logoColor=blue&style=for-the-badge">
-
-
-<head>
-
-</head>
+      
 
 
 - [x] aprender mas lenguajes 
