@@ -3,15 +3,13 @@
 
 <!-- nav html -->
 
-<h2>
- :octocat:<a href="#home">Home</a>   :jack_o_lantern:              
- <a href="#news">News</a> 	:ghost: 
- <a href="#news">News</a>  :computer:
+
+ :octocat:<a href="#home">Home</a>:jack_o_lantern:<a href="#news">News</a> 	:ghost: <a href="#news">News</a>  :computer:
  <a href="#news">News</a>  	:iphone:
  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="50" height="60" >  	:octocat:
 
 
-</h2> 
+ 
 
  <img src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" width="1000" height="3" > 
  
