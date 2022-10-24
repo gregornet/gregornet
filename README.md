@@ -11,7 +11,9 @@
  
  <!-- nav html -->
 
-Hola Soyy gregor Desarrollador web autodidacta, siempre me ha gustado la tecnologia ,loqueme me llevo a aprender computacion ñsfñsfñfñfwjfwjfwjjjlñsdflfjñaslfjñsdlfj
+Hola Soyy gregor Desarrollador web autodidacta, siempre me ha gustado la tecnologia ,loqueme me llevo a aprender computación , luego la internet y las redes sociales me mostraron el lenguaje HTML junto al CSS fue asi como dscubri la programacion, y desd entonces no e parado de aprender y sigo aprendiendo cada dia,
+por ahora estoy enfocado en el desarrollo web pero con mucha intencion de aprende el desarrollo de software,  pero aprende varios lenguajes 
+
 
 
 
