@@ -164,10 +164,11 @@ este sirve
  
 ### Contactame
  
- <p align="left"> <a href="https://twitter.com/gregoridev" target="blank"><img src="https://img.shields.io/twitter/follow/gregoridev?logo=twitter&style=for-the-badge" alt="gregoridev" /></a> </p>
- 
+
  
  <a href="https://twitter.com/gregoridev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gregoridev" height="30" width="40" /></a>
+ 
+  <p align="left"> <a href="https://twitter.com/gregoridev" target="blank"><img src="https://img.shields.io/twitter/follow/gregoridev?logo=twitter&style=for-the-badge" alt="gregoridev" /></a> </p>
  
  
   <!-------------------------------------------------------------------------------------------------------------------------------------------------->
