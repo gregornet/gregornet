@@ -173,12 +173,20 @@ este sirve
   <div> 
  
  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gregornet&show_icons=true&locale=en&layout=compact" alt="gregornet" /></p>
-   
-    </div> 
+   </div> 
 
+ 
+ <div> 
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=gregornet&show_icons=true&locale=en" alt="gregornet" /></p>
 
+</div> 
+ 
+ 
+<div> 
+
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=gregornet&" alt="gregornet" /></p>
+
+</div> 
  
    
    
