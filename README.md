@@ -1,7 +1,7 @@
 
  <a name="regrego" id="regreso"></a>
 
-<!-- nav html --------------------------------------------------------------------------------------------------------------------------------->
+<!-----------nav html ------------------->
 
 
  :octocat:<a href="#home">Home</a>:jack_o_lantern:<a href="#news">News</a> 	:ghost: <a href="#news">News</a>  :computer:
@@ -11,24 +11,20 @@
 
  <img src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" width="1000" height="3" > 
  
- <!-- -------------------------------------------------->
+ <!-- ---------------------------------------------------------------------------------------------------------->
  
  
  
  
  
-  <!-- ---------------------------------------------- redes sociales -------------------------------------------------------------------------->
+  <!-- ----------------------- redes sociales ------>
  
  <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=TWEET&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fgregoridev"> <!----> ![Twitter Follow](https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Follow%20%40gregoridev&logo=twitter&logoColor=blue&style=social)<!----> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Follow%20%40gregoridev&logo=twitter&logoColor=blue&style=for-the-badge"> <!----><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Follow%20%40gregoridev&logo=twitter&logoColor=blue&style=for-the-badge">
-
-
  
+  <!-- --------------------------------------------------------------------------------------------------------------------------------------->
 
- 
+ <!-- presentacion  -->
 
- 
- 
-  <!-- ---------------------------------------------------------------------->
 
 :maple_leaf: Hola Soyy gregor Desarrollador web autodidacta, siempre me ha gustado la tecnologia ,loqueme me llevo a aprender computación , luego la internet y las redes sociales me mostraron el lenguaje HTML junto al CSS fue asi como dscubri la programacion, y desd entonces no e parado de aprender y sigo aprendiendo cada dia,
 por ahora estoy enfocado en el desarrollo web pero con mucha intencion de aprende el desarrollo de software,  pero aprender varios lenguajes 	:fallen_leaf:
@@ -36,7 +32,7 @@ por ahora estoy enfocado en el desarrollo web pero con mucha intencion de aprend
 
 
 
- <!-- presentacion  -->
+ <!--------------------------------------------------------------------------------------------------------------------------------------------------------- -->
 
 ```json
 
