@@ -71,6 +71,10 @@ computación
 
 
 ```css
+
+ Trabajos 
+https://gregornet.github.io/tron/
+https://gregordev.wordpress.com/
 este sirve
 
 
