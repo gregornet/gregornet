@@ -1,5 +1,7 @@
 
- <!-- nav html -->
+ <a name="lancha" id="lancha"></a>
+
+<!-- nav html -->
 
 <h2>
  :octocat:<a href="#home">Home</a>   :jack_o_lantern:              
@@ -55,7 +57,7 @@ este sirve
 @@ text in purple (and bold)@@
 ```
 
- "¡-! ¡Advertencia! -" 
+
 
 <ul>
   <a href="default.asp" color=red >Home</a>
@@ -123,7 +125,7 @@ YOUR TABLE
 
 </picture>
  
- <a name="lancha" id="lancha"></a>
+
 
 
 ## About me
