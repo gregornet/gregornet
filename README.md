@@ -162,7 +162,7 @@ este sirve
  
   <!------------------contact------->
  
-  <p> Contactame</p> 
+###Contactame
  
  <p align="left"> <a href="https://twitter.com/gregoridev" target="blank"><img src="https://img.shields.io/twitter/follow/gregoridev?logo=twitter&style=for-the-badge" alt="gregoridev" /></a> </p>
  
