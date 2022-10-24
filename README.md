@@ -19,7 +19,9 @@
  
 ![Twitter Follow](https://img.shields.io/twitter/follow/gregoridev?color=blue&label=follow%20%40gregoridev&logo=twitter&logoColor=blue&style=flat-square)
  
+ ![Twitter Follow](https://img.shields.io/twitter/follow/gregoridev?color=green&label=follow%20%40gregoridev&logo=linkedin&logoColor=blue&style=social)
  
+ ![Twitter Follow](https://img.shields.io/twitter/follow/gregoridev?style=social)
  
   <!-- ---------------------------------------------------------------------->
 
