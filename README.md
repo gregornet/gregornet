@@ -67,7 +67,7 @@ este sirve
 
  
 
- <a href="#lancha">Paseo en lancha</a>
+
 
 
  
@@ -182,15 +182,18 @@ function test() {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gregornet&show_icons=true&locale=en" alt="gregornet" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gregornet&" alt="gregornet" /></p>
+
+
+ <!-- link ocultos aun no defino para que usarlo -->
  
  
  <a href="#ancla-1">Capitulo 1</a>
 
-<a name="ancla-1"></a>
 
 
 
-<p> soy un parrafo</p>
+
+
 
 
 
