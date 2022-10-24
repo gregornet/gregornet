@@ -11,7 +11,7 @@
  
  <!-- nav html -->
 
-Hi, I'm greg. You might recognize me as GitHub's mascot.
+Hola Soyy gregor Desarrollador web autodidacta, siempre me ha gustado la tecnologia ,loqueme me llevo a aprender computacion ñsfñsfñfñfwjfwjfwjjjlñsdflfjñaslfjñsdlfj
 
 
 
