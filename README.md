@@ -4,7 +4,7 @@
 <!-----------nav html ------------------->
 
 
- :octocat:<a href="#home">Home</a>:jack_o_lantern:<a href="#news">News</a> 	:ghost: <a href="#ancla-2">Skills </a>  :computer:
+ :octocat:<a href="#home">Home</a>:jack_o_lantern:<a href="#ancla-2">Skills </a> 	:ghost: <a href="#ancla-4">Stats </a>  :computer:
  <a href="#ancla-1">Languages and Tools </a>	:iphone:  <a href="#ancla-3">Contact</a> 
  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="50" height="60" >  	:octocat:
 
@@ -171,6 +171,10 @@ este sirve
  
   <!-------------------------------------------------------------------------------------------------------------------------------------------------->
  
+ 
+ 
+ 
+  <a name="ancla-4" id="Stats"></a> 
  
    <!----------------------stats--->
  
