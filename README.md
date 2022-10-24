@@ -3,7 +3,7 @@
 
 <h1> 
  
- <img src="https://miro.medium.com/max/1400/0*EitUXT-pqbaQSCTt.gif" width="50" height="50" > 
+ <img src="  " width="50" height="50" > 
  :skull:
  <a href="#home">Home</a>   :jack_o_lantern:              
  <a href="#news">News</a> 	:ghost: 
@@ -11,7 +11,10 @@
  <a href="#news">News</a>  	:iphone:
  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="50" height="60" >  	:octocat:
 
-</h1>
+
+
+
+ <img src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" width="900" height="35" > 
  
  <!-- ---------------------------------------------- nav html-------------------------------------------------------------------------->
 
