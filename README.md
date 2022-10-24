@@ -19,8 +19,7 @@
  
   <!-- ----------------------- redes sociales ------>
  
- <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=TWEET&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fgregoridev"> <!----> ![Twitter Follow](https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Follow%20%40gregoridev&logo=twitter&logoColor=blue&style=social)<!----> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Follow%20%40gregoridev&logo=twitter&logoColor=blue&style=for-the-badge"> <!----> <a href="https://linkedin.com/in/gregoridev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregoridev" height="30" width="40" /></a>
-
+ <img alt="Twitter URL" src="https://img.shields.io/twitter/url?color=blue&label=TWEET&logo=twitter&logoColor=blue&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fgregoridev"> <!----> ![Twitter Follow](https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Follow%20%40gregoridev&logo=twitter&logoColor=blue&style=social)<!----> <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Follow%20%40gregoridev&logo=twitter&logoColor=blue&style=for-the-badge"> <!----> <a href="https://linkedin.com/in/gregoridev" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gregoridev" height="30" width="40" /></a> <!---->  <img src="https://komarev.com/ghpvc/?username=gregornet&label=Profile%20views&color=0e75b6&style=flat" alt="gregornet" /> 
  
   <!-- --------------------------------------------------------------------------------------------------------------------------------------->
 
