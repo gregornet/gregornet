@@ -181,9 +181,9 @@ este sirve
  
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gregornet&show_icons=true&locale=en&layout=compact" alt="gregornet" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gregornet&show_icons=true&locale=en" alt="gregornet" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=gregornet&show_icons=true&locale=en" alt="gregornet" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gregornet&" alt="gregornet" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gregornet&" alt="gregornet" /></p>
  
  
  <!-------------------------------------------------------------------------------------------------------------------------------------------------->
