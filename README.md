@@ -100,7 +100,7 @@ YOUR TABLE
 
 
 ```ruby
-   puts "Hello World"
+  que puedo decir que no se haya dicho
 ```
 
 </p>
