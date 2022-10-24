@@ -102,15 +102,6 @@ este sirve
 
 
 
-
-| info    |info         |info       
-| ---     | ---         |         --
-| 1       |           2 |  3
-| git diff | Show file differences that haven't been staged | qq
-|veamos    |  hjgh      |        gjghj   
-
-
-
 <div> <img align="left" src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="200" height="200" >
 
  <img align="right" src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="200" height="200" >
@@ -193,6 +184,13 @@ este sirve
  <!-------------------------------------------------------------------------------------------------------------------------------------------------->
  
  
+  | info    |info         |info       
+| ---     | ---         |         --
+| 1       |           2 |  3
+| git diff | Show file differences that haven't been staged | qq
+|veamos    |  hjgh      |        gjghj    
+   
+   
  <div align="right" > 
   
   <a  href="#regreso">Arriba</a>
