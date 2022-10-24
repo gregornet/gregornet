@@ -188,7 +188,7 @@ function test() {
 
 <a name="ancla-1"></a>
 
-<h3>Capitulo 1 </h3>
+
 
 <p> soy un parrafo</p>
 
@@ -196,7 +196,7 @@ function test() {
 
  
  <div align="right" >  <a  href="#regreso">Arriba</a> </div>
-
+<h3>Capitulo 1 </h3>
 
 <!--
 **gregornet/gregornet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
