@@ -68,11 +68,10 @@ este sirve
 - [x] aprender mas lenguajes 
 - [ ] aprender as ingles
 - [ ] huy tantas cosas :tada:
- - [x] aprender mas lenguajes 
+- [x] aprender mas lenguajes 
 - [ ] aprender as ingles
-- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
-- [ ] aprender as ingles
-- [ ] huy tantas cosas :tada:- [x] aprender mas lenguajes 
+- [ ] huy tantas cosas :tada:- 
+- [ ] huy tantas cosas :tada:- 
 
 
 
