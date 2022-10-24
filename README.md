@@ -68,29 +68,16 @@ este sirve
 
 
 
-<ul>
-  <a href="default.asp" color=red >Home</a>
-  <a href="news.asp">News</a>
-  <a href="contact.asp">Contact</a>
-  <a href="about.asp">About</a>
-</ul>
-
-
- 
 
 
 
+<a href="https://www.linkedin.com/in/gregoridev/" &logo=linkedin  target="_blank">Visita mi linkedin </a> 
 
- 
-
-
-<h2>The target Attribute</h2>
-
-<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a> 
+![linkedin](https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Follow%20%40gregoridev&logo=twitter&logoColor=blue&style=social)
 
 
 
-
+<img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/gregoridev?color=blue&label=Contact me%20%40gregoridev&logo=linkedin&logoColor=blue&style=for-the-badge">
 
 
 <head>
