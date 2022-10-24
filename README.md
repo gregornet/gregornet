@@ -5,7 +5,7 @@
 
 
  :octocat:<a href="#home">Home</a>:jack_o_lantern:<a href="#news">News</a> 	:ghost: <a href="#news">News</a>  :computer:
- <a href="#ancla-1">Languages </a>	:iphone:
+ <a href="#ancla-1">Languages and Tools </a>	:iphone:
  <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" width="50" height="60" >  	:octocat:
 
 
@@ -138,7 +138,7 @@ este sirve
 
 
  
- <a name="ancla-1" id="Languages "></a> 
+ <a name="ancla-1" id="Languages and Tools "></a> 
  
  <h3 align="left">Languages and Tools:</h3>
  
