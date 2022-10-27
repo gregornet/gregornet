@@ -3,9 +3,11 @@
 
 <!-----------nav html ------------------->
 
+ <img src="https://www.todopaisajes.com/1920x1080/embrujo-de-la-luna.jpg" width="1000" height="200" > 
+
 
 <img src="https://pbs.twimg.com/media/Ff3Zs5NXoAA6tgt?format=png&name=small" width="130" height="150" > :octocat: <a href="#home">Home</a> :jack_o_lantern: <a href="#skill">Skill </a> :ghost: <a href="#portfolio">portfolio </a>  :computer:
- <a href="#">Skill </a>	:iphone:  <a href="#contact">Contact</a> <img src="https://pbs.twimg.com/media/FgDG9d0XwAAwWG7?format=png&name=small" width="378" height="400" >  	
+ <a href="#">Skill </a>	:iphone:  <a href="#contact">Contact</a> <img src="https://pbs.twimg.com/media/FgDG9d0XwAAwWG7?format=png&name=small" width="378" height="300" >  	
 
  <img src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" width="1000" height="21" > 
  
