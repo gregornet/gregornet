@@ -1,4 +1,8 @@
 
+  
+
+ 
+ 
  <a name="regrego" id="regreso"></a>
 
 <!-----------nav html ------------------->
@@ -62,7 +66,9 @@ computación
 
 ```ruby
      
-    "cosas que quiero apender y mejorar"que puedo decir que no se haya dicho
+    " Task lists "
+     
+    " cosas que quiero apender y mejorar"son muchas
 ```
 
 - [x] aprender mas lenguajes 
