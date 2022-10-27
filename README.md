@@ -157,7 +157,11 @@ este sirve
  
  
  
- 
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html5,css3,js,git,github" />
+  </a>
+</p>
  
  
  <h3 align="left">Languages and Tools:</h3>
