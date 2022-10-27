@@ -154,12 +154,10 @@ este sirve
 
  <a name="ancla-1" id="Languages and Tools "></a> 
  
+ ![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,github&theme=dark&perline=1)
  
  
- 
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
+ <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,git,github" />
   </a>
 </p>
  
