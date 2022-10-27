@@ -233,33 +233,14 @@ este sirve
 
 
 
- <a name="Contact" id="Contact"></a> 
 
-:email: :mailbox: :postbox:
- 
-  <!------------------contact------->
- 
-### Contactame
- 
-
- 
- <a href="https://twitter.com/gregoridev" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gregoridev" height="30" width="40" /></a> <p align="left"> <a href="https://twitter.com/gregoridev" target="blank"><img src="https://img.shields.io/twitter/follow/gregoridev?logo=twitter&style=for-the-badge" alt="gregoridev" /></a> </p>
- 
- 
-  <!-------------------------------------------------------------------------------------------------------------------------------------------------->
  
  
  
  
   <a name="ancla-4" id="Stats"></a> 
  
- 
- 
- 
- 
- 
- 
- 
+
  
    <!----------------------stats--->
  
@@ -300,6 +281,23 @@ este sirve
  
  
  </div>
+ 
+  <!-------------------------------------------------------------------------------------------------------------------------------------------------->
+ 
+  <a name="Contact" id="Contact"></a> 
+
+:email: :mailbox: :postbox:
+ 
+  <!------------------contact------->
+ 
+### Contactame
+ 
+
+ 
+ <a href="https://twitter.com/gregoridev" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gregoridev" height="30" width="40" /></a> <p align="left"> <a href="https://twitter.com/gregoridev" target="blank"><img src="https://img.shields.io/twitter/follow/gregoridev?logo=twitter&style=for-the-badge" alt="gregoridev" /></a> </p>
+ 
+ 
+  <!-------------------------------------------------------------------------------------------------------------------------------------------------->
  
  
 
