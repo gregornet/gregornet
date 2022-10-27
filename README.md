@@ -1,5 +1,4 @@
 
- 
 
  
  
@@ -80,6 +79,16 @@ computación
 - [ ] aprender as ingles
 - [ ] huy tantas cosas :tada:- 
 - [ ] huy tantas cosas :tada:- 
+
+```mermaid
+graph TD;
+    HTML5-->Junior;
+    CSS3-->Junior;
+    JAVASCRIPT-->Junior;
+    Junior-->React;
+    React-->Git;
+    React-->Git;
+```
 
 
 ## :fallen_leaf: :fallen_leaf::fallen_leaf::fallen_leaf::fallen_leaf:
