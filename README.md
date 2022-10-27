@@ -3,7 +3,7 @@
 
 <!-----------nav html ------------------->
 
- <img src="https://www.todopaisajes.com/1920x1080/embrujo-de-la-luna.jpg" width="200" height="90" > 
+ <img src="https://www.todopaisajes.com/1920x1080/embrujo-de-la-luna.jpg" width="100" height="90" > 
 
 
 <img src="https://pbs.twimg.com/media/Ff3Zs5NXoAA6tgt?format=png&name=small" width="150" height="100" > :octocat: <a href="#home">Home</a> :jack_o_lantern: <a href="#skill">Skill </a> :ghost: <a href="#portfolio">portfolio </a>  :computer:
