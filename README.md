@@ -60,7 +60,8 @@ computación
 ```
 
 ```ruby
-      "cosas que quiero apender y mejorar"que puedo decir que no se haya dicho
+     
+     #dfgdg#"cosas que quiero apender y mejorar"que puedo decir que no se haya dicho
 ```
 
 - [x] aprender mas lenguajes 
@@ -90,10 +91,9 @@ computación
  recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
  
   
-```
+``` 
 
 
- <!-- Js aun no defino para que usarlo -->
 
 
 
@@ -112,17 +112,6 @@ computación
 
  <a name="home" id="Home "></a> 
  
-
-
-
-
-
-```ruby
-  que puedo decir que no se haya dicho"nose "
-```
- 
-
-
 
 
 
