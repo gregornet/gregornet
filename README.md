@@ -4,7 +4,7 @@
 <!-----------nav html ------------------->
 
 
-  <img src="https://pbs.twimg.com/media/Ff3Zs5NXoAA6tgt?format=png&name=small" width="150" height="150" >:octocat:<a href="#home">Home</a>:jack_o_lantern:<a href="#ancla-2">Skills </a> 	:ghost: <a href="#ancla-4">Stats </a>  :computer:
+  <img src="https://pbs.twimg.com/media/Ff3Zs5NXoAA6tgt?format=png&name=small" width="140" height="150" >:octocat:<a href="#home">Home</a>:jack_o_lantern:<a href="#ancla-2">Skills </a> 	:ghost: <a href="#ancla-4">Stats </a>  :computer:
  <a href="#ancla-1">Languages and Tools </a>	:iphone:  <a href="#ancla-3">Contact</a> 
  <img src="https://pbs.twimg.com/media/FgDG9d0XwAAwWG7?format=png&name=small" width="300" height="300" >  	
 
