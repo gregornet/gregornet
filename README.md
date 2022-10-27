@@ -1,6 +1,31 @@
 
-  
+$\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 
+$\mathbb{\color{teal}{this \ is \ a } \ \color{magenta}{paragraph \ in \ another \ font}}$
+
+$\mathscr{\color{red}{this} \ \ \color{blue}{is \ \ a \ \ paragraph} \ \ \color{yellow}{in \ \ another \ \ font}}$
+
+$\mathfrak{\color{lime}{this \ is \ a \ paragraph \ in \ another \ font}}$
+
+$\mathscr{\color{red}{mon}\color{white}{day}}$
+
+$\textcolor{olive}{\TeX} \ \textcolor{darkgray}{workaround \ found \ by \ Dassalem \ Mohammed \ Yasser}$
+
+$\textit{hello}$  #italic
+
+$\text{hello}$    #normal
+
+$\Large{hello}$$   #Bigger text size
+
+$$\LaTeX$$
+
+
+
+$\colorbox{red}{text}$
+
+Text inside bordered Box 
+
+$\fbox{Hello there}$
  
  
  <a name="regrego" id="regreso"></a>
@@ -340,4 +365,46 @@ Here are some ideas to get you started:
 $$\textcolor{yellow}{\text{Hello World}}$$
 
 $$\textcolor{green}{\text{Hello World}}{\text{Hello World}}\textcolor{blue}{\text{Hello World}}$$
+
+
+
+
+
+- ![](https://placehold.co/15x15/f03c15/f03c15.png) `sfsfsfsfssf`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+
+~~Hi~~ Hello, ~there~ world!
+
+
+
+![](https://img.shields.io/badge/githubgfdgfgdgdf-ffffff?style=for-the-badge)
+![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/API-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)
+
+
+
+
+
+
+$\textcolor{olive}{\TeX} \ \textcolor{darkgray}{workaround \ found \ by \ Dassalem \ Mohammed \ Yasser}$
+
+$\textit{hello}$  #italic
+
+$\text{hello}$    #normal
+
+$\Large{hello}$$   #Bigger text size
+
+$$\LaTeX$$
+
+
+
+$\colorbox{red}{text}$
+
+Text inside bordered Box 
+
+$\fbox{Hello there}$
+
 -->
