@@ -51,10 +51,28 @@ computación
 ```css
  y desde entonces no e parado de aprender y sigo aprendiendo cada dia,por ahora estoy enfocado en el desarrollo web pero 
  con mucha intencion de aprende el desarrollo de software,  pero aprender varios lenguajes 
+ 
+ 
+ 
+ 
 
 
 ```
- :fallen_leaf:
+
+```ruby
+      "cosas que quiero apender y mejorar"que puedo decir que no se haya dicho
+```
+
+- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:
+- [x] aprender mas lenguajes 
+- [ ] aprender as ingles
+- [ ] huy tantas cosas :tada:- 
+- [ ] huy tantas cosas :tada:- 
+
+
+## :fallen_leaf: :fallen_leaf::fallen_leaf::fallen_leaf::fallen_leaf:
  
 
 
@@ -85,13 +103,6 @@ computación
       
 
 
-- [x] aprender mas lenguajes 
-- [ ] aprender as ingles
-- [ ] huy tantas cosas :tada:
-- [x] aprender mas lenguajes 
-- [ ] aprender as ingles
-- [ ] huy tantas cosas :tada:- 
-- [ ] huy tantas cosas :tada:- 
 
 
 
@@ -101,13 +112,6 @@ computación
 
  <a name="home" id="Home "></a> 
  
-
-
-
-## About me
-
-
-
 
 
 
