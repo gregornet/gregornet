@@ -61,7 +61,7 @@ computación
 
 ```ruby
      
-     #dfgdg#"cosas que quiero apender y mejorar"que puedo decir que no se haya dicho
+    "cosas que quiero apender y mejorar"que puedo decir que no se haya dicho
 ```
 
 - [x] aprender mas lenguajes 
