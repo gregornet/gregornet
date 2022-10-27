@@ -150,11 +150,11 @@ este sirve
 
  
 
- <!--Languages   -->
+ <!--My skills   -->
 
  <a name="skill" id="Skill "></a> 
  
-  <h3 align="left">Languages and Tools:</h3>
+  <h3 align="left">Skills</h3>
  
  ![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,github&theme=dark&perline=1)
  
