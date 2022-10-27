@@ -292,7 +292,7 @@ este sirve
  
   <!------------------contact------->
  
-### contact me through
+### contact me through :point_down:
  
 
  
