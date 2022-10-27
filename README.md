@@ -73,22 +73,7 @@ computación
  <!-- Js aun no defino para que usarlo -->
 
 
-```css
 
- Trabajos 
-https://gregornet.github.io/tron/
-https://gregordev.wordpress.com/
- 
- https://gregornet.github.io/tron/   
- https://gregordev.wordpress.com/     
- https://www.linkedin.com/in/gregoridev         
- http://linktr.ee/gregordev         
- https://gregornet.github.io/tron/    
- https://gregornet.github.io/tron/  
-este sirve
-
-
-```
 
 
 
@@ -222,6 +207,23 @@ este sirve
 </div>
  
  ![image](https://user-images.githubusercontent.com/88152278/198257414-791a1f84-e36c-4c11-947b-7ea95de942c4.png)
+ 
+ ```css
+
+ Trabajos 
+https://gregornet.github.io/tron/
+https://gregordev.wordpress.com/
+ 
+ https://gregornet.github.io/tron/   
+ https://gregordev.wordpress.com/     
+ https://www.linkedin.com/in/gregoridev         
+ http://linktr.ee/gregordev         
+ https://gregornet.github.io/tron/    
+ https://gregornet.github.io/tron/  
+este sirve
+
+
+```
 
  
  
