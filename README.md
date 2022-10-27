@@ -1,7 +1,4 @@
 
-
- 
- 
  <a name="regrego" id="regreso"></a>
 
 <!-----------nav html ------------------->
@@ -37,7 +34,8 @@
 
  <!-- presentacion  -->
  
- ## About me :maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf:
+ # About me
+ :maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf:
  
 
 ```python
