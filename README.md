@@ -1,5 +1,8 @@
 
+ 
 
+ 
+ 
  
  
  <a name="regrego" id="regreso"></a>
@@ -272,6 +275,17 @@ este sirve
    
  
  <!-------------------------------------------------------------------------------------------------------------------------------------------------->
+  <details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "aun no se que poner aqui pero algo pondre jejeje"
+```
+
+</p>
+</details>
  
  
   | info    |info         |info       
