@@ -152,7 +152,7 @@ este sirve
  <!--My skills   -->
 
 
-<a id="Skill "></a>
+<a name=skill id="Skill "></a>
  <h1 align="left">Skills</h1>
  
  ![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,git,github&theme=dark&perline=1)
