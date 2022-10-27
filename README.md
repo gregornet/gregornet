@@ -157,7 +157,7 @@ este sirve
  
  <a name=skill id="Skill "></a>
  :wrench:
- <h1 align="left">Skills</h1>
+ <h1 align="center">Skills</h1>
  
 
  
