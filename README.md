@@ -281,17 +281,8 @@ este sirve
    
  
  <!-------------------------------------------------------------------------------------------------------------------------------------------------->
-  <details><summary>CLICK ME</summary>
-<p>
 
-#### We can hide anything, even code!
-
-```ruby
-   puts "aun no se que poner aqui pero algo pondre jejeje"
-```
-
-</p>
-</details>
+ 
  
  
   | info    |info         |info       
@@ -305,6 +296,25 @@ este sirve
   
   <a  href="#regreso">Arriba</a>
  
+ 
+ </div>
+ 
+  <div>
+ 
+ <details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+```ruby
+   puts "aun no se que poner aqui pero algo pondre jejeje"
+```
+
+</p>
+ 
+ $$\textcolor{green}{\text{Hello World}}{\text{Hello World}}\textcolor{blue}{\text{Hello World}}$$
+ 
+</details>
  
  </div>
  
