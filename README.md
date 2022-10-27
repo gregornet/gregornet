@@ -1,4 +1,7 @@
 
+
+ 
+ 
  <a name="regrego" id="regreso"></a>
 
 <!-----------nav html ------------------->
@@ -21,7 +24,7 @@
  
  
 
- 
+
  
  
  
@@ -322,4 +325,15 @@ Here are some ideas to get you started:
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+
+> __Note__
+
+
+> __Warning__
+
+ 
+$$\textcolor{yellow}{\text{Hello World}}$$
+
+$$\textcolor{green}{\text{Hello World}}{\text{Hello World}}\textcolor{blue}{\text{Hello World}}$$
 -->
