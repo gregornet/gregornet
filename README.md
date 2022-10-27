@@ -142,6 +142,7 @@ este sirve
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregornet&label=Profile%20views&color=0e75b6&style=flat" alt="gregornet" /> </p>
+  <a name="skill" id="Skill "></a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gregornet" alt="gregornet" /></a> </p>
 
@@ -175,7 +176,7 @@ este sirve
  
  
 
- <a name="ancla-2" id="Skills "></a> 
+ <a name="ancla-2" id="kkkk "></a> 
  
  
   <!------------------------------- -->
