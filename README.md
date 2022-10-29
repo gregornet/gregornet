@@ -1,9 +1,9 @@
-<!------------------------------>
+<!--------------   <img src="https://pbs.twimg.com/media/FgQ8vgzWIAI9JDX?format=png&name=medium" width="1000" height="420" >   ---------------->
  
  
  <a name="regrego" id="regreso"></a>
  
- <img src="https://pbs.twimg.com/media/FgQ8vgzWIAI9JDX?format=png&name=medium" width="1000" height="420" > 
+
 
 <!-----------nav html ------------------->
 
