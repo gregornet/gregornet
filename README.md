@@ -9,7 +9,7 @@
 
 
 
- <img src="https://pbs.twimg.com/media/FgRMBmjXoAAous-?format=png&name=small" width="90" height="90" > 
+ <img src="https://pbs.twimg.com/media/FgRMBmjXoAAous-?format=png&name=small" width="80" height="80" > 
 
 
 <img src="https://pbs.twimg.com/media/Ff3Zs5NXoAA6tgt?format=png&name=small" width="150" height="150" > :octocat: <a href="#home">Home</a> :jack_o_lantern: <a href="#skill">Skill </a> :ghost: <a href="#portfolio">portfolio </a>  :computer:
