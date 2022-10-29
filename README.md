@@ -1,13 +1,15 @@
-<!-----------nav html ------------------->
+<!------------------------------>
  
  
  <a name="regrego" id="regreso"></a>
  
-
+ <img src="https://pbs.twimg.com/media/FgQ8vgzWIAI9JDX?format=png&name=medium" width="1000" height="420" > 
 
 <!-----------nav html ------------------->
 
- <img src="https://pbs.twimg.com/media/FgQ8vgzWIAI9JDX?format=png&name=medium" width="1000" height="420" > 
+
+
+ <img src="https://pbs.twimg.com/media/FgRMBmjXoAAous-?format=png&name=small" width="100" height="100" > 
 
 
 <img src="https://pbs.twimg.com/media/Ff3Zs5NXoAA6tgt?format=png&name=small" width="150" height="150" > :octocat: <a href="#home">Home</a> :jack_o_lantern: <a href="#skill">Skill </a> :ghost: <a href="#portfolio">portfolio </a>  :computer:
