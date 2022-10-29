@@ -233,13 +233,14 @@ graph TD;
 
  Trabajos 
 https://gregornet.github.io/tron/
+
 https://gregordev.wordpress.com/
+   
+https://www.linkedin.com/in/gregoridev 
+
+ http://linktr.ee/gregordev 
  
- https://gregornet.github.io/tron/   
- https://gregordev.wordpress.com/     
- https://www.linkedin.com/in/gregoridev         
- http://linktr.ee/gregordev         
- https://gregornet.github.io/tron/    
+  
  https://gregornet.github.io/tron/  
 este sirve
 
