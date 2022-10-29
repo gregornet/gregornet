@@ -73,12 +73,12 @@ computación
     " cosas que quiero apender y mejorar"son muchas
 ```
 
-- [x] aprender mas lenguajes 
-- [ ] aprender as ingles
-- [ ] huy tantas cosas :tada:
-- [x] aprender mas lenguajes 
-- [ ] aprender as ingles
-- [ ] huy tantas cosas :tada:- 
+- [ ] aprender mas lenguajes 
+- [ ] mejorar mi ingles
+- [ ] mejorar mis conocimiento a nivel senior :tada:
+- [ ] aprender mas lenguajes quisas un poco de c++ o python   
+- [ ] mejorar con otros frameworks como vue  y angular 
+- [ ] un trabajo remoto :tada:- 
 - [ ] huy tantas cosas :tada:- 
 
 ```mermaid
