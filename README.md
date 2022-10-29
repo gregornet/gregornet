@@ -1,11 +1,13 @@
-
+<!-----------nav html ------------------->
  
  
  <a name="regrego" id="regreso"></a>
+ 
+
 
 <!-----------nav html ------------------->
 
- <img src="https://www.todopaisajes.com/1920x1080/embrujo-de-la-luna.jpg" width="200" height="90" > 
+ <img src="https://pbs.twimg.com/media/FgQ8vgzWIAI9JDX?format=png&name=medium" width="1000" height="500" > 
 
 
 <img src="https://pbs.twimg.com/media/Ff3Zs5NXoAA6tgt?format=png&name=small" width="150" height="150" > :octocat: <a href="#home">Home</a> :jack_o_lantern: <a href="#skill">Skill </a> :ghost: <a href="#portfolio">portfolio </a>  :computer:
