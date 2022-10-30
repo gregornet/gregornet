@@ -77,7 +77,7 @@
 
 
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15&margin-h=15" alt="gregornet" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="gregornet" /></a> </p>
 
  
   </div>
