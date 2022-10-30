@@ -312,11 +312,11 @@ graph TD;
 <div>
  
  
-<img align="left" src="https://i.kym-cdn.com/photos/images/newsfeed/000/968/455/475.gif" width="150" height="200" >
+<img align="left" src="https://i.kym-cdn.com/photos/images/newsfeed/000/968/455/475.gif" width="200" height="200" >
 
  <img align="center" src="https://user-images.githubusercontent.com/88152278/198257414-791a1f84-e36c-4c11-947b-7ea95de942c4.png" width="400" height="500" >
 
- <img align="right" src="https://i.kym-cdn.com/photos/images/newsfeed/000/968/455/475.gif" width="150" height="200" >
+ <img align="right" src="https://i.kym-cdn.com/photos/images/newsfeed/000/968/455/475.gif" width="200" height="200" >
 
 
 
