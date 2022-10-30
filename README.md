@@ -31,7 +31,19 @@
 
  
  
- <!-- ----------------------- stats y trofeos ------>
+ <!-- ----------------------- contador ------>
+ 
+ 
+ <div align="center"><p align="center"><img src="https://komarev.com/ghpvc/?username=gregornet&label=Profile%20views&color=0e75b6&style=flat" alt="gregornet" /> </p>
+
+  </div> 
+  
+   <!-- --------------------------->
+ 
+ 
+  <!-- ----------------------- stats y trofeos ------>
+ 
+ 
    
 <div align="right"> 
  
@@ -57,11 +69,7 @@
 
 
 
- <div align="center"><p align="center"><img src="https://komarev.com/ghpvc/?username=gregornet&label=Profile%20views&color=0e75b6&style=flat" alt="gregornet" /> </p>
-
-
  
-  </div>  
   
   
     
