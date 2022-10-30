@@ -45,38 +45,49 @@
 </div> 
  
  
+ 
+ 
 <div align="left"> 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gregornet&" alt="gregornet" /></p>
+  
 
 </div> 
    
+
+
+
+ <div align="center"><p align="center"><img src="https://komarev.com/ghpvc/?username=gregornet&label=Profile%20views&color=0e75b6&style=flat" alt="gregornet" /> </p>
+
+
+ 
+  </div>  
+  
+  
+    
+  
+  
+  
+  
+  
    
  <div>
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregornet&label=Profile%20views&color=0e75b6&style=flat" alt="gregornet" /> </p>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gregornet" alt="gregornet" /></a> </p>
 
  
   </div>
- 
-  <!-- -------------------------------------------------------------------------------------------------- ------>
- 
-
- 
- 
- 
- 
+  
+  
  
 
-  <!-- --------------------------------------------------------------------------------------------------------------------------------------->
 
  <!-- presentacion  -->
  
- 
- <div>-------------------------------------------------------
+ <div>
  
   </div>
  
@@ -312,26 +323,7 @@ este sirve
  
    <!----------------------stats--->
  
-  <div align="right"> 
  
- <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gregornet&show_icons=true&locale=en&layout=compact" alt="gregornet" /></p>
-   </div> 
-
- 
- <div align="right"> 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=gregornet&show_icons=true&locale=en" alt="gregornet" /></p>
-
-</div> 
- 
- 
-<div align="left"> 
-
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gregornet&" alt="gregornet" /></p>
-
-</div> 
- 
-   
-   
  
  <!-------------------------------------------------------------------------------------------------------------------------------------------------->
 
