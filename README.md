@@ -137,6 +137,10 @@ computación
 $\textcolor{grey}{harán \ cosas \ maravillosas \ con \ ellas”}$
 
 
+
+
+
+
 ```ruby
      
     " Task lists "
@@ -435,7 +439,11 @@ $\mathscr{\color{red}{mon}\color{white}{day}}$
 
   <!-----------forma de texto 1 y 2 ------------------->
   <!-----------forma de texto 1 y 2 
-## $\textcolor{yellow}{maracaibo\ ciudad\ bonita}$
+
+
+
+
+###### $\textcolor{yellow}{maracaibo\ ciudad\ bonita}$
 
 
 $\textcolor{olive}{\TeX} \ \textcolor{darkgray}{workaround \ found \ by \ Dassalem \ Mohammed \ Yasser}$
