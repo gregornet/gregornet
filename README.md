@@ -101,7 +101,7 @@
 
 
  <!-- presentacion  -->
-  <a name="about" id="portfolio"></a> 
+  <a name="about" id="about"></a> 
  
  <div>
  
