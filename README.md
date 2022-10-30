@@ -2,8 +2,6 @@
 
 
 
-
-
 <!--------------   <img src="https://pbs.twimg.com/media/FgQ8vgzWIAI9JDX?format=png&name=medium" width="1000" height="420" >   ---------------->
  
  
@@ -236,18 +234,28 @@ graph TD;
 
  
  
+ <table>
+
+<td> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><br><button> HTML5</button> </td>
  
+ <td><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html5" width="40" height="40"/><br><button> HTML5</button> </td>
+ 
+ <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><br><button> JAVASCRIPT</button> </td>
+ 
+ <td>  <img align="center"src="https://skillicons.dev/icons?i=markdown" /><br><button> marckdown</button> </td>
+ 
+ <td> hola </td>
+ 
+ <td> hola </td> </table>
  
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><br><button> HTML5</button>
-   
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/><br><button> CSS3</button>
+
+>
   
  
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><br><button> GIT</button>
  
-  
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><br><button> JAVASCRIPT</button>
+ 
  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/><br><button> PHOTOSHOP</button>
  
