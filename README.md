@@ -226,7 +226,7 @@ graph TD;
  
  <a name=skill id="Skill "></a>
  :wrench:
- <h1 align="center">Skills</h1>
+ <h1 align="center">My Skills</h1>
  
  <h1 align="center">language</h1>
  
@@ -286,43 +286,13 @@ graph TD;
  
  <td> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/><br><button> GITHUB</button> </td>
  
- <td>  <img align="center"src="https://skillicons.dev/icons?i=markdown" /><br><button> MARKDOWN</button> </td>
+ <td>  <img align="center"src="https://skillicons.dev/icons?i=photoshop" /><br><button> PHOTOSHOP</button> </td>
  
  <td> coming soon</td>
  
  <td> coming soon </td> 
 
 </table>
-
-
-
-
-
-
- 
-<p align="center"><img src="https://skillicons.dev/icons?i=github" />
-  </a>
-</p>
- 
- 
-<p align="center"><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
- 
- 
-
- <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/> 
- 
- <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  
-</a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-
-  </p>
-
-  
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><br><button> GIT</button>
- 
- 
- 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/><br><button> PHOTOSHOP</button>
  
  
   
