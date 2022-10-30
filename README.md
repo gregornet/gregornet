@@ -1,7 +1,7 @@
 
 
-$\textcolor{olive}{\TeX} \ \textcolor{red}{workaroundhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh \ }$
-$\textcolor{olive}{\TeX} \ \textcolor{red}{workaroundhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh \ }$
+$\textcolor{olive}{\TeX} \ \textcolor{red}{workaroundhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh \ }$
+$\textcolor{olive}{\TeX} \ \textcolor{red}{workaroundhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh \ }$
 $\textcolor{olive}{\TeX} \ \textcolor{darkgray}{workaround \ found \ by \ Dassalem \ Mohammed \ Yasser}$
 
 <!--------------   <img src="https://pbs.twimg.com/media/FgQ8vgzWIAI9JDX?format=png&name=medium" width="1000" height="420" >   ---------------->
