@@ -134,7 +134,7 @@ computación
  
  $\textcolor{grey}{“La \ tecnología \ no \ es \ nada. \ Lo \ importante \ es \ que \ tengas \ fe \ en \ la \ gente, \ que \ sean \ básicamente \ buenas \ e \ inteligentes,y \ si \ les \ das \ herramientas,\ }$
  
-$\textcolor{grey}{harán \ cosas \ maravillosas \ con \ ellas”}$
+$\textcolor{grey}{ herramientas,\harán \ cosas \ maravillosas \ con \ ellas”}$
 
 
 
