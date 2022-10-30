@@ -25,16 +25,22 @@
  
  <!-- ---------------------------------------------------------------------------------------------------------->
  
+  <!------------------------- texto svg------>
+    <!------------------------ texto svg------>
+ 
  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&pause=1000&width=1000&height=200&lines=Design+and+Developer+Front+End++;hola+maracaibo;que+bonito+es+esto)](https://git.io/typing-svg)
  
  
-
+  <!-------------------------------------------------------------------------->
  
  
  <!-- ----------------------- contador ------>
+  <!-- ----------------------- contador ------>
  
  
- <div align="center"><p align="center"><img src="https://komarev.com/ghpvc/?username=gregornet&label=Profile%20views&color=0e75b6&style=flat" alt="gregornet" /> </p>
+ <div align="center">
+ 
+ <p align="center"><img src="https://komarev.com/ghpvc/?username=gregornet&label=Profile%20views&color=0e75b6&style=flat" alt="gregornet" /> </p>
 
   </div> 
   
