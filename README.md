@@ -81,6 +81,15 @@ computación
 - [ ] un trabajo remoto :tada:- 
 - [ ] huy tantas cosas :tada:- 
 
+- 🔭 I am currently working on my portfolio.
+- 🌱 I'm currently learning advanced javascript.
+- 👯 I am looking to collaborate in with friends or companies to help me grow.
+- 🤔 I am looking for help with remote jobs.
+- 💬 Ask me about ...
+- 📫 How to contact me: you can contact me by https://twitter.com/gregoridev
+- 😄 Pronouns: ...
+- ⚡ Fun fact: I am self-taught and a fast learner.
+
 ```mermaid
 graph TD;
     HTML5-->Junior;
