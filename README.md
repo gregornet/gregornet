@@ -1,3 +1,14 @@
+
+
+
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+
+
+
+
+
 <!--------------   <img src="https://pbs.twimg.com/media/FgQ8vgzWIAI9JDX?format=png&name=medium" width="1000" height="420" >   ---------------->
  
  
@@ -40,7 +51,7 @@
 
  <!-- presentacion  -->
  
- # About me
+![](https://img.shields.io/badge/About-me-ffffff?style=for-the-badge)
  :maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf:
  
 
@@ -381,36 +392,22 @@ Here are some ideas to get you started:
 </h1>
 
 
-> __Note__
+<!----------- forma de texto y color ------------------->
 
 
-> __Warning__
+$\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 
- 
-$$\textcolor{yellow}{\text{Hello World}}$$
+$\mathbb{\color{teal}{this \ is \ a } \ \color{magenta}{paragraph \ in \ another \ font}}$
 
-$$\textcolor{green}{\text{Hello World}}{\text{Hello World}}\textcolor{blue}{\text{Hello World}}$$
+$\mathscr{\color{red}{this} \ \ \color{blue}{is \ \ a \ \ paragraph} \ \ \color{yellow}{in \ \ another \ \ font}}$
 
+$\mathfrak{\color{lime}{this \ is \ a \ paragraph \ in \ another \ font}}$
 
-
-
-
-- ![](https://placehold.co/15x15/f03c15/f03c15.png) `sfsfsfsfssf`
-- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
-- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
-
-~~Hi~~ Hello, ~there~ world!
+$\mathscr{\color{red}{mon}\color{white}{day}}$
 
 
-
-![](https://img.shields.io/badge/githubgfdgfgdgdf-ffffff?style=for-the-badge)
-![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)
-![](https://img.shields.io/badge/API-yellow?style=for-the-badge)
-![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)
-![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)
-
-
-
+  <!-----------forma de texto 1 y 2 ------------------->
+  
 ## $\textcolor{yellow}{maracaibo\ ciudad\ bonita}$
 
 
@@ -430,6 +427,52 @@ $\colorbox{red}{text}$
 
 Text inside bordered Box 
 
-$\fbox{Hello there}$
+$\fbox{Hello there}$ 
+  
+  
+  hey there
+  
+  ~~Hi~~ Hello, ~there~ world!
+  
+  
+  $$\textcolor{yellow}{\text{Hello World}}$$
+
+$$\textcolor{green}{\text{Hello World}}{\text{Hello World}}\textcolor{blue}{\text{Hello World}}$$
+
+> __Note__
+
+
+> __Warning__
+
+ 
+   <!----------------------------------------------------------------------------------------->
+
+ 
+
+
+   <!----------------texto color con bandas------------------------------------------------------------------------->
+
+
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+
+- ![](https://placehold.co/15x15/f03c15/f03c15.png) `About me`
+- ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
+- ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) `#1589F0`
+
+
+
+
+
+![](https://img.shields.io/badge/about-me-ffffff?style=for-the-badge)
+![](https://img.shields.io/badge/book-blueviolet?style=for-the-badge)
+![](https://img.shields.io/badge/API-yellow?style=for-the-badge)
+![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)
+![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)
+
+
+
+
 
 -->
