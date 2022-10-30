@@ -230,9 +230,8 @@ graph TD;
  
  <h1 align="center">language</h1>
  
-  ![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=10)
 
- 
+
  
  <table>
 
@@ -246,44 +245,30 @@ graph TD;
  
  <td> coming soon</td>
  
- <td> coming soon </td> </table>
+ <td> coming soon </td> 
+
+</table>
  
 
 
 
-  
- 
- <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><br><button> GIT</button>
- 
- 
- 
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/><br><button> PHOTOSHOP</button>
- 
- <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><br><button> REACT</button> 
- 
-
-
-
-
- 
-
- 
- 
- <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js" />
-  </a>
-</p>
  <!--------------------------- FrameWorks ------------>
  <!--------------------------- FrameWorks ------------>
  <!--------------------------- FrameWorks ------------>
  
  <h1 align="center">FrameWorks
-<img src="(https://skillicons.dev/icons?i=react,vue,angular&theme=dark&perline=10" />
-  
+<img src="(https://skillicons.dev/icons?i=react&theme=dark&perline=10" />
+   
 
 </h1>
  
-  ![My Skills](https://skillicons.dev/icons?i=react,vue,angular&theme=dark&perline=10)
- 
+
+  
+   <a ><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/><br><button> REACT</button>  </a >
+  
+  
+  
+  
  
 <!--------------------------- tecnologias ------------>
 <!--------------------------- tecnologias ------------>
@@ -293,8 +278,29 @@ graph TD;
 <h1 align="center">tecnologias</h1>
 
 
+ <table>
+
+<td> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/><br><button> VSCODE</button> </td>
  
-<p align="center"><img src="https://skillicons.dev/icons?i=vscode,ps,git,github" />
+ <td><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/><br><button> GIT</button> </td>
+ 
+ <td> <img src="https://skillicons.dev/icons?i=github" alt="github" width="40" height="40"/><br><button> GITHUB</button> </td>
+ 
+ <td>  <img align="center"src="https://skillicons.dev/icons?i=markdown" /><br><button> MARKDOWN</button> </td>
+ 
+ <td> coming soon</td>
+ 
+ <td> coming soon </td> 
+
+</table>
+
+
+
+
+
+
+ 
+<p align="center"><img src="https://skillicons.dev/icons?i=github" />
   </a>
 </p>
  
@@ -311,6 +317,16 @@ graph TD;
 
   </p>
 
+  
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><br><button> GIT</button>
+ 
+ 
+ 
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/><br><button> PHOTOSHOP</button>
+ 
+ 
+  
+  
 <!--------------------------- portafolio ------------>
   <!--------------------------- portafolio ------------>
    <!--------------------------- portafolio ------------>
