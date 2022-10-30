@@ -385,7 +385,7 @@ Here are some ideas to get you started:
 
 
 <!----------- forma de texto y color ------------------->
-
+<!----------- 
 
 $\mathcal{\color{purple}{this \ is \ a \ paragraph} \ \color{cyan}{in \ another \ font}}$
 
@@ -397,9 +397,10 @@ $\mathfrak{\color{lime}{this \ is \ a \ paragraph \ in \ another \ font}}$
 
 $\mathscr{\color{red}{mon}\color{white}{day}}$
 
+------------------->
 
   <!-----------forma de texto 1 y 2 ------------------->
-  
+  <!-----------forma de texto 1 y 2 
 ## $\textcolor{yellow}{maracaibo\ ciudad\ bonita}$
 
 
