@@ -518,7 +518,15 @@ $$\textcolor{green}{\text{Hello World}}{\text{Hello World}}\textcolor{blue}{\tex
 | ---     | ---         |         --
 | 1       |           2 |  3
 | git diff | Show file differences that haven't been staged | qq
-|veamos    |  hjgh      |        gjghj   
+|veamos    |  hjgh      |        gjghj  
+ 
+
+
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&pause=1000&center=falso&vCenter=falso&multiline=true&width=1000&height=350&lines=hola+a+todos+sssssssssmmm;como+estannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn;helo+worldddddddddddddddddddddddddddddddddddd;no+se+que+decirrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr)](https://git.io/typing-svg)
+
+
 
 -->
  
