@@ -1,14 +1,6 @@
 
 
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
-
-
-
-
-
 <!--------------   <img src="https://pbs.twimg.com/media/FgQ8vgzWIAI9JDX?format=png&name=medium" width="1000" height="420" >   ---------------->
  
  
@@ -456,6 +448,9 @@ $$\textcolor{green}{\text{Hello World}}{\text{Hello World}}\textcolor{blue}{\tex
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+
+
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 - ![](https://placehold.co/15x15/f03c15/f03c15.png) `About me`
 - ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) `#c5f015`
