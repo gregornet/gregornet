@@ -25,7 +25,7 @@
  
  <!-- ---------------------------------------------------------------------------------------------------------->
  
- 
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&pause=1000&width=1000&height=200&lines=Design+and+Developer+Front+End++;hola+maracaibo;que+bonito+es+esto)](https://git.io/typing-svg)
  
  
 
