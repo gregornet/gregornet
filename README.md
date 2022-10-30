@@ -16,8 +16,8 @@
  <img src="https://pbs.twimg.com/media/FgRMBmjXoAAous-?format=png&name=small" width="80" height="80" > 
 
 
-<img src="https://pbs.twimg.com/media/Ff3Zs5NXoAA6tgt?format=png&name=small" width="150" height="150" > :octocat: <a href="#home">Home</a> :jack_o_lantern: <a href="#skill">Skill </a> :ghost: <a href="#portfolio">portfolio </a>  :computer:
- <a href="#">more </a>	:iphone:  <a href="#contact">Contact</a> <img src="https://pbs.twimg.com/media/FgDG9d0XwAAwWG7?format=png&name=small" width="350" height="290" >  	
+<img src="https://pbs.twimg.com/media/Ff3Zs5NXoAA6tgt?format=png&name=small" width="150" height="150" > :octocat: <a href="#home">Home</a> :jack_o_lantern: <a href="#skill">Skill </a> :ghost: <a href="#about">About me </a>  :computer:
+ <a href="#portfolio">portfolio </a>	:iphone:  <a href="#contact">Contact</a> <img src="https://pbs.twimg.com/media/FgDG9d0XwAAwWG7?format=png&name=small" width="350" height="290" >  	
 
  <img src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" width="1000" height="21" > 
  
@@ -101,6 +101,7 @@
 
 
  <!-- presentacion  -->
+  <a name="about" id="portfolio"></a> 
  
  <div>
  
