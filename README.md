@@ -366,11 +366,7 @@ este sirve
  
  
  
-  | info    |info         |info       
-| ---     | ---         |         --
-| 1       |           2 |  3
-| git diff | Show file differences that haven't been staged | qq
-|veamos    |  hjgh      |        gjghj    
+   
    
    
  <div align="right" > 
@@ -534,5 +530,13 @@ $$\textcolor{green}{\text{Hello World}}{\text{Hello World}}\textcolor{blue}{\tex
 ![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)
 
 
+
+
+
+  | info    |info         |info       
+| ---     | ---         |         --
+| 1       |           2 |  3
+| git diff | Show file differences that haven't been staged | qq
+|veamos    |  hjgh      |        gjghj   
 
 -->
