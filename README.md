@@ -228,7 +228,7 @@ graph TD;
  :wrench:
  <h1 align="center">Skills</h1>
  
- <h1 align="center">Languaje</h1>
+ <h1 align="center">language</h1>
  
   ![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark&perline=10)
 
@@ -238,19 +238,19 @@ graph TD;
 
 <td> <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/><br><button> HTML5</button> </td>
  
- <td><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html5" width="40" height="40"/><br><button> HTML5</button> </td>
+ <td><img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="html5" width="40" height="40"/><br><button> CSS3</button> </td>
  
  <td> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/><br><button> JAVASCRIPT</button> </td>
  
- <td>  <img align="center"src="https://skillicons.dev/icons?i=markdown" /><br><button> marckdown</button> </td>
+ <td>  <img align="center"src="https://skillicons.dev/icons?i=markdown" /><br><button> MARKDOWN</button> </td>
  
- <td> hola </td>
+ <td> coming soon</td>
  
- <td> hola </td> </table>
+ <td> coming soon </td> </table>
  
 
 
->
+
   
  
  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/><br><button> GIT</button>
@@ -272,13 +272,20 @@ graph TD;
  <p align="center"><img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
+ <!--------------------------- FrameWorks ------------>
+ <!--------------------------- FrameWorks ------------>
+ <!--------------------------- FrameWorks ------------>
  
- 
- <h1 align="center">FrameWorks </h1>
+ <h1 align="center">FrameWorks
+<img src="(https://skillicons.dev/icons?i=react,vue,angular&theme=dark&perline=10" />
+  
+
+</h1>
  
   ![My Skills](https://skillicons.dev/icons?i=react,vue,angular&theme=dark&perline=10)
  
  
+<!--------------------------- tecnologias ------------>
 <!--------------------------- tecnologias ------------>
 
 
