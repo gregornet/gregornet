@@ -1,7 +1,6 @@
 
 
 
-
 <!--------------   <img src="https://pbs.twimg.com/media/FgQ8vgzWIAI9JDX?format=png&name=medium" width="1000" height="420" >   ---------------->
  
  
@@ -122,11 +121,15 @@ computación
  
  ```
  
-```css
- y desde entonces no e parado de aprender y sigo aprendiendo cada dia,por ahora estoy enfocado en el desarrollo web , y poco a poco dar el salto a fullstack .
+
+```css,ruby
+
+ y desde entonces no e parado de aprender y sigo aprendiendo cada dia,por ahora estoy enfocado en el desarrollo web,
+ y poco a poco dar el salto a fullstack ,me gustaria aprender lenguaje de alto nivel y poco a poco me preparo para ello.
  
- me gustaria aprender lenguaje de alto nivel y poco a poco me preparo para ello.
-```
+ ```
+ 
+
 
 ```ruby
      
