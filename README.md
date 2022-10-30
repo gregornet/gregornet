@@ -444,6 +444,7 @@ $$\textcolor{green}{\text{Hello World}}{\text{Hello World}}\textcolor{blue}{\tex
 
    <!----------------texto color con bandas------------------------------------------------------------------------->
 
+   <!----------------texto color con bandas--------------------------------------------
 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
@@ -465,8 +466,6 @@ $$\textcolor{green}{\text{Hello World}}{\text{Hello World}}\textcolor{blue}{\tex
 ![](https://img.shields.io/badge/API-yellow?style=for-the-badge)
 ![](https://img.shields.io/badge/Crates.io-orange?style=for-the-badge)
 ![](https://img.shields.io/badge/Lib.rs-lightgrey?style=for-the-badge)
-
-
 
 
 
