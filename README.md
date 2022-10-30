@@ -1,6 +1,9 @@
 
 
 
+
+
+
 <!--------------   <img src="https://pbs.twimg.com/media/FgQ8vgzWIAI9JDX?format=png&name=medium" width="1000" height="420" >   ---------------->
  
  
@@ -20,28 +23,62 @@
 
  <img src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" width="1000" height="21" > 
  
-
-
-
-
- 
  <!-- ---------------------------------------------------------------------------------------------------------->
  
  
  
-
-
- 
- 
- 
-  <!-- ----------------------- redes sociales ------>
  
 
+ 
+ 
+ <!-- ----------------------- stats y trofeos ------>
+   
+<div align="right"> 
+ 
+ <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=gregornet&show_icons=true&locale=en&layout=compact" alt="gregornet" /></p>
+   </div> 
+
+ 
+ <div align="right"> 
+<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=gregornet&show_icons=true&locale=en" alt="gregornet" /></p>
+
+</div> 
+ 
+ 
+<div align="left"> 
+
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gregornet&" alt="gregornet" /></p>
+
+</div> 
+   
+   
+ <div>
+ 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=gregornet&label=Profile%20views&color=0e75b6&style=flat" alt="gregornet" /> </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gregornet" alt="gregornet" /></a> </p>
+
+ 
+  </div>
+ 
+  <!-- -------------------------------------------------------------------------------------------------- ------>
+ 
+
+ 
+ 
+ 
+ 
  
 
   <!-- --------------------------------------------------------------------------------------------------------------------------------------->
 
  <!-- presentacion  -->
+ 
+ 
+ <div>-------------------------------------------------------
+ 
+  </div>
  
 ![](https://img.shields.io/badge/About-me-ffffff?style=for-the-badge)
  :maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf:
@@ -73,7 +110,7 @@ computación
      
     " Task lists "
      
-    " cosas que quiero apender y mejorar"son muchas
+    " cosas que quiero aprender y mejorar"son muchas
 ```
 
 - [ ] learn more languages 
