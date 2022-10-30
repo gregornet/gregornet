@@ -41,7 +41,10 @@
    <!-- --------------------------->
  
  
-  <!-- ----------------------- stats y trofeos ------>
+ 
+ 
+ 
+<!------------------------- stats ------>
  
  
    
@@ -67,24 +70,14 @@
 </div> 
    
 
-
-
- 
   
-  
-    
-  
-  
-  
-  
-  
-   
- <div>
+ <!------------------------- trofeos ------>  
+<div>
  
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gregornet" alt="gregornet" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&margin-w=15&margin-h=15" alt="gregornet" /></a> </p>
 
  
   </div>
