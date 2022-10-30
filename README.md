@@ -76,13 +76,13 @@ computación
     " cosas que quiero apender y mejorar"son muchas
 ```
 
-- [ ] aprender mas lenguajes 
-- [ ] mejorar mi ingles
-- [ ] mejorar mis conocimiento a nivel senior :tada:
-- [ ] aprender mas lenguajes quisas un poco de c++ o python   
-- [ ] mejorar con otros frameworks como vue  y angular 
-- [ ] un trabajo remoto :tada:- 
-- [ ] huy tantas cosas :tada:- 
+- [ ] learn more languages 
+- [ ] improve my English
+- [ ] improve my knowledge at senior level :tada:
+- [ ] learn more languages maybe a little bit of c++ or python   
+- [ ] improve with other frameworks like vue and angular 
+- [ ] a remote job :tada:- 
+- [ ] oh so many things :tada:- 
 
 - 🔭 I am currently working on my portfolio.
 - 🌱 I'm currently learning advanced javascript.
