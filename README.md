@@ -252,7 +252,7 @@ graph TD;
 
 
 
-<h1 align="center">tecnologias</h1>
+<h1 align="center">Tecnologias</h1>
 
 
  <table>
