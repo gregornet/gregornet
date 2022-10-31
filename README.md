@@ -307,7 +307,7 @@ graph TD;
  
  <td> https://gregordev.wordpress.com/  </td>
  
- <td> https://www.linkedin.com/in/gregoridev  </td>
+ <td> https://www.linkedin.com/in/gregoridev  </td> </tr>
  
  <td> http://linktr.ee/gregordev   </td>
  
