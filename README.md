@@ -302,10 +302,10 @@ graph TD;
  
 [visitame](https://gregornet.github.io/tron/)  
  
- ```css
+
 
  Trabajos 
-[https://gregornet.github.io/tron/](https://gregornet.github.io/tron/)
+https://gregornet.github.io/tron/
 Visit https://gregordev.wordpress.com/   
 Visit https://www.linkedin.com/in/gregoridev 
 Visit http://linktr.ee/gregordev 
@@ -313,7 +313,6 @@ Visit https://gregornet.github.io/tron/
 este sirve
 
 
-```
 
 [](https://gregornet.github.io/tron/)
 
