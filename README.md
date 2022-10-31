@@ -205,7 +205,7 @@ graph TD;
  :wrench:
  <h1 align="center">My Skills</h1>
  
- <h1 align="center">language</h1>
+ <h1 align="center">Language</h1>
  
 
 
