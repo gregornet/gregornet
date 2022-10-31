@@ -300,21 +300,32 @@ graph TD;
  
 </div>
  
-[visitame](https://gregornet.github.io/tron/)  
+ 
+ <table>
+
+<td> https://gregornet.github.io/tron/ </td>
+ 
+ <td> https://gregordev.wordpress.com/  </td>
+ 
+ <td> https://www.linkedin.com/in/gregoridev  </td>
+ 
+ <td> http://linktr.ee/gregordev   </td>
+ 
+ <td> coming soon</td>
+ 
+ <td> coming soon </td> 
+
+</table>
  
 
 
- Trabajos 
 https://gregornet.github.io/tron/
-Visit https://gregordev.wordpress.com/   
-Visit https://www.linkedin.com/in/gregoridev 
-Visit http://linktr.ee/gregordev 
-Visit https://gregornet.github.io/tron/  
-este sirve
+https://gregordev.wordpress.com/   
+https://www.linkedin.com/in/gregoridev 
+http://linktr.ee/gregordev 
+ 
 
 
-
-[](https://gregornet.github.io/tron/)
 
  
  
