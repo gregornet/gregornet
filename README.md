@@ -78,8 +78,7 @@
 
   
   
-  
-  
+
   
   
   
@@ -98,19 +97,21 @@
    
    
    
-   
+ 
  
 
 
  <!-- presentacion  -->
   <a name="about" id="about"></a> 
+  
+
  
  <div>
  
   </div>
  
 ![](https://img.shields.io/badge/About-me-ffffff?style=for-the-badge)
- :maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf:
+ :maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf::maple_leaf:<img src="https://pbs.twimg.com/media/Fi36IeDXwAEH_sw?format=png&name=small" width="150" height="150" >
  
 
 ```python
@@ -294,6 +295,9 @@ graph TD;
  <img align="center" src="https://user-images.githubusercontent.com/88152278/198257414-791a1f84-e36c-4c11-947b-7ea95de942c4.png" width="400" height="500" >
 
  <img align="right" src="https://i.kym-cdn.com/photos/images/newsfeed/000/968/455/475.gif" width="200" height="200" >
+ 
+
+
 
 
 
