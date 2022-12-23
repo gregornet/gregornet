@@ -21,7 +21,7 @@
 <img src="https://pbs.twimg.com/media/Ff3Zs5NXoAA6tgt?format=png&name=small" width="150" height="150" > :octocat: <a href="#home">Home</a> :jack_o_lantern: <a href="#skill">Skills </a> :ghost: <a href="#about">About me </a>  :computer:
  <a href="#portfolio">portfolio </a>	:iphone:  <a href="#contact">Contact</a> <img src="https://pbs.twimg.com/media/FgDG9d0XwAAwWG7?format=png&name=small" width="260" height="290" >  	
 
- <img src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" width="1000" height="21" > 
+ <img src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" width="900" height="21" > 
  
  <!-- ---------------------------------------------------------------------------------------------------------->
  
