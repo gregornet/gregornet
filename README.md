@@ -21,7 +21,7 @@
 <img src="https://pbs.twimg.com/media/Ff3Zs5NXoAA6tgt?format=png&name=small" width="150" height="150" > :octocat: <a href="#home">Home</a> :jack_o_lantern: <a href="#skill">Skills </a> :ghost: <a href="#about">About me </a>  :computer:
  <a href="#portfolio">portfolio </a>	:iphone:  <a href="#contact">Contact</a> <img src="https://pbs.twimg.com/media/FgDG9d0XwAAwWG7?format=png&name=small" width="260" height="290" >  	
 
- <img src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" width="700" height="21" > 
+ <img src="https://media.tenor.com/rC1vAt-kMCoAAAAC/line-neon.gif" width="500" height="21" > 
  
  <!-- ---------------------------------------------------------------------------------------------------------->
  
@@ -530,7 +530,7 @@ $$\textcolor{green}{\text{Hello World}}{\text{Hello World}}\textcolor{blue}{\tex
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&pause=1000&center=falso&vCenter=falso&multiline=true&width=1000&height=350&lines=hola+a+todos+sssssssssmmm;como+estannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn;helo+worldddddddddddddddddddddddddddddddddddd;no+se+que+decirrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=70&pause=1000&center=falso&vCenter=falso&multiline=true&width=1000&height=350&lines=hola+a+todos+sssssssssmmm;como+estannnnnnnnnnnnnn;helo+worldddddddddddddddddddddddddddddddddddd;no+se+que+decirrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrrr)](https://git.io/typing-svg)
 
 
 
